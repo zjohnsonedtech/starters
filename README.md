@@ -1,0 +1,2 @@
+# templates
+Skeleton documents.
